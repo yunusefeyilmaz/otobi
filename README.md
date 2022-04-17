@@ -3,11 +3,11 @@ Küçük bir java-swing projesi.
 
 # Nasıl Kurulur
 
-  Dosyaları indirdikten sonra /dist klasörüne girilir.
+  Dosyaları indirdikten sonra /dist klasörüne girin.
   
  ![1](https://user-images.githubusercontent.com/89478740/163714929-38bba6f4-dd85-4874-8386-0b6e71f7332c.png)
   
-  Burdan OtoBi.jar dosyası açılır.
+  Burdan OtoBi.jar dosyası açın.
   
   Not: Java'nın bilgisayarınızda kurulu olması gerek.Eğer JVM hatası alırsanız readme.txt dosyasını okuyun.
   
