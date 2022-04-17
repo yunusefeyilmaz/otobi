@@ -35,7 +35,6 @@ public class TripSettingsScreen extends javax.swing.JFrame {
         for(int i=0;i<=59;i++){
             if(i<10){
                 cbTimeMin.addItem("0"+String.valueOf(i));
-                cbTimeMin.addItem("0"+String.valueOf(i));
             }else{
                 cbTimeMin.addItem(String.valueOf(i));
             }      
